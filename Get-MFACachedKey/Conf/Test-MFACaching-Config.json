@@ -1,0 +1,51 @@
+{
+  "AuthMethod": {
+    "Value": "User",
+    "Note": "This should be User or Cert.",
+    "User": "Use Username and Yubikey.",
+    "Cert": "Use Client Authentication Certificate.",
+    "Example": "User"
+  },
+  "URL": {
+    "Value": "https://epv.nvidia.com/PasswordVault",
+    "Value2": "https://epv.company.com/PasswordVault",
+    "Note": "This should be a fully qualified domain name.  Include the Application Name.",
+    "Example": "https://epv.company.com/PasswordVault"
+  },
+  "KeyFormat": {
+    "Value": "PPK,PEM,OpenSSH",
+    "Note": "This the SSH key file format to download.  Valid Values: PPK, PEM, OpenSSH",
+    "Example": "PPK",
+    "Note2": "For multiple file types seperate them with comma (,)",
+    "Example2": "PPK,PEM,OpenSSH"
+  },
+  "PassphraseRequired": {
+    "Value": false,
+    "Note": "If a Key Passphrase is required set it to true.",
+    "Example": true
+  },
+  "OutFile": {
+    "Value": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Conf\\Z_OUT_Test.out",
+    "Note": "Please use a fully qualified path and filename.  Do include a file extension, it will be replaced based on the Key Format.",
+    "Warning": "The back slash needs to be doubled to avoid issues with the JSON file.(\\)",
+    "Example": "C:\\Temp\\My_SSH_Key"
+  },
+  "ThumbPrint": {
+    "Value": "",
+    "Value2": "61c2808e62b8b62784b4650e3f14112e29485842",
+    "Note": "This should be the thumbprint of the certificate to be used.  It needs to be stored on your YubiKey.",
+    "Example": "1783479e4888ce0fb0910eab691727d418e1ee82"
+  },
+  "LogLevel": {
+    "Value": "Verbose",
+    "Note": "This should be one of the following values; None, Error, Warning, Info, Debug, Verbose.",
+    "Example": "None"
+  },
+  "LogFile": {
+    "Value": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Logs\\My_Log_File.txt",
+    "Note": "This should be a relative or fully qualified path.  Leave blank for none.",
+    "Example": "Logs\\My_LogFile.txt"
+  },
+  "IgnoreSSL": true,
+  "RequestTimeOut": 30
+}

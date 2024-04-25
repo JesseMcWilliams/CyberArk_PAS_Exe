@@ -1,0 +1,16 @@
+2024/17/04 06:45:22 :   Debug : Authenticating to 
+	 CyberArk PVWA Address: https://epv.nvidia.com/PasswordVault 
+	 Authentication Method: PKIPN
+2024/17/04 06:45:22 :    Info : Processing Request:  
+	  Scheme: https 
+	  Host  : epv.nvidia.com 
+	  Path  : /PasswordVault/API/auth/pkipn/logon 
+	 Query  :  
+	Method  : POST 
+	Full URL: https://epv.nvidia.com/PasswordVault/API/auth/pkipn/logon
+2024/17/04 06:45:26 :   Error : Incorrect PIN or no PIN provided when prompted!
+2024/17/04 06:45:26 :   Error : One or more errors occurred. (An error occurred while sending the request.)
+2024/17/04 06:45:26 :   Error : An error occurred while sending the request.
+2024/17/04 06:45:26 :   Error : The read operation failed, see inner exception.
+2024/17/04 06:45:26 :   Error : Authentication failed, see inner exception.
+2024/17/04 06:45:26 :   Error : The Local Security Authority cannot be contacted

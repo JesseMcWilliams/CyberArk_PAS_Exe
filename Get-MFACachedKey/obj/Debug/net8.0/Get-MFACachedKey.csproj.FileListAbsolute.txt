@@ -1,0 +1,15 @@
+c:\Engagements\JesseMcWilliams\CyberArk_PAS_Exe\Get-MFACachedKey\bin\Debug\net8.0\Get-MFACachedKey.exe
+c:\Engagements\JesseMcWilliams\CyberArk_PAS_Exe\Get-MFACachedKey\bin\Debug\net8.0\Get-MFACachedKey.deps.json
+c:\Engagements\JesseMcWilliams\CyberArk_PAS_Exe\Get-MFACachedKey\bin\Debug\net8.0\Get-MFACachedKey.runtimeconfig.json
+c:\Engagements\JesseMcWilliams\CyberArk_PAS_Exe\Get-MFACachedKey\bin\Debug\net8.0\Get-MFACachedKey.dll
+c:\Engagements\JesseMcWilliams\CyberArk_PAS_Exe\Get-MFACachedKey\bin\Debug\net8.0\Get-MFACachedKey.pdb
+c:\Engagements\JesseMcWilliams\CyberArk_PAS_Exe\Get-MFACachedKey\obj\Debug\net8.0\Get-MFACachedKey.GeneratedMSBuildEditorConfig.editorconfig
+c:\Engagements\JesseMcWilliams\CyberArk_PAS_Exe\Get-MFACachedKey\obj\Debug\net8.0\Get-MFACachedKey.AssemblyInfoInputs.cache
+c:\Engagements\JesseMcWilliams\CyberArk_PAS_Exe\Get-MFACachedKey\obj\Debug\net8.0\Get-MFACachedKey.AssemblyInfo.cs
+c:\Engagements\JesseMcWilliams\CyberArk_PAS_Exe\Get-MFACachedKey\obj\Debug\net8.0\Get-MFACachedKey.csproj.CoreCompileInputs.cache
+c:\Engagements\JesseMcWilliams\CyberArk_PAS_Exe\Get-MFACachedKey\obj\Debug\net8.0\Get-MFACachedKey.sourcelink.json
+c:\Engagements\JesseMcWilliams\CyberArk_PAS_Exe\Get-MFACachedKey\obj\Debug\net8.0\Get-MFACachedKey.dll
+c:\Engagements\JesseMcWilliams\CyberArk_PAS_Exe\Get-MFACachedKey\obj\Debug\net8.0\refint\Get-MFACachedKey.dll
+c:\Engagements\JesseMcWilliams\CyberArk_PAS_Exe\Get-MFACachedKey\obj\Debug\net8.0\Get-MFACachedKey.pdb
+c:\Engagements\JesseMcWilliams\CyberArk_PAS_Exe\Get-MFACachedKey\obj\Debug\net8.0\Get-MFACachedKey.genruntimeconfig.cache
+c:\Engagements\JesseMcWilliams\CyberArk_PAS_Exe\Get-MFACachedKey\obj\Debug\net8.0\ref\Get-MFACachedKey.dll

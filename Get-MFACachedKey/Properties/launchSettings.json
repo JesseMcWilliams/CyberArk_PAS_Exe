@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Get-MFACachedKey": {
+      "commandName": "Project",
+      "commandLineArgs": "-ConfigFile \"C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Conf\\Test-MFACaching-Config.json\""
+    }
+  }
+}

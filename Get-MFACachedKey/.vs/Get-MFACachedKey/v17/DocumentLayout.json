@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|c:\\engagements\\jessemcwilliams\\cyberark_pas_exe\\get-mfacachedkey\\cyberark-pass-caller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|solutionrelative:cyberark-pass-caller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|c:\\engagements\\jessemcwilliams\\cyberark_pas_exe\\get-mfacachedkey\\cyberark-pass-api-auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|solutionrelative:cyberark-pass-api-auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB75672-A024-4731-A349-4562F64BF598}|Solution Items{8AB75672-A024-4731-A349-4562F64BF598}|C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\CyberArk-PASS-API-User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB75672-A024-4731-A349-4562F64BF598}|Solution Items{8AB75672-A024-4731-A349-4562F64BF598}|solutionrelative:CyberArk-PASS-API-User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|c:\\engagements\\jessemcwilliams\\cyberark_pas_exe\\get-mfacachedkey\\conf\\test-mfacaching-config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|solutionrelative:conf\\test-mfacaching-config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|c:\\engagements\\jessemcwilliams\\cyberark_pas_exe\\get-mfacachedkey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|c:\\engagements\\jessemcwilliams\\cyberark_pas_exe\\get-mfacachedkey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|c:\\engagements\\jessemcwilliams\\cyberark_pas_exe\\get-mfacachedkey\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|solutionrelative:utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|c:\\engagements\\jessemcwilliams\\cyberark_pas_exe\\get-mfacachedkey\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|c:\\engagements\\jessemcwilliams\\cyberark_pas_exe\\get-mfacachedkey\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|solutionrelative:config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|c:\\engagements\\jessemcwilliams\\cyberark_pas_exe\\get-mfacachedkey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|c:\\engagements\\jessemcwilliams\\cyberark_pas_exe\\get-mfacachedkey\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|solutionrelative:logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|c:\\engagements\\jessemcwilliams\\cyberark_pas_exe\\get-mfacachedkey\\conf\\dev1-mfacaching-config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|solutionrelative:conf\\dev1-mfacaching-config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|c:\\engagements\\jessemcwilliams\\cyberark_pas_exe\\get-mfacachedkey\\get-mfacachedkey.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7704080F-F25A-404D-95FA-EBA953B8C86A}|Get-MFACachedKey.csproj|solutionrelative:get-mfacachedkey.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:49:02.588Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA4wFQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:27:36.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:15:26.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Get-MFACachedKey.csproj",
+              "DocumentMoniker": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Get-MFACachedKey.csproj",
+              "RelativeDocumentMoniker": "Get-MFACachedKey.csproj",
+              "ToolTip": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Get-MFACachedKey.csproj",
+              "RelativeToolTip": "Get-MFACachedKey.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T22:59:29.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DEV1-MFACaching-Config.json",
+              "DocumentMoniker": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Conf\\DEV1-MFACaching-Config.json",
+              "RelativeDocumentMoniker": "Conf\\DEV1-MFACaching-Config.json",
+              "ToolTip": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Conf\\DEV1-MFACaching-Config.json",
+              "RelativeToolTip": "Conf\\DEV1-MFACaching-Config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T23:02:07.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test-MFACaching-Config.json",
+              "DocumentMoniker": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Conf\\Test-MFACaching-Config.json",
+              "RelativeDocumentMoniker": "Conf\\Test-MFACaching-Config.json",
+              "ToolTip": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Conf\\Test-MFACaching-Config.json",
+              "RelativeToolTip": "Conf\\Test-MFACaching-Config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T23:01:57.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Config.cs",
+              "RelativeDocumentMoniker": "Config.cs",
+              "ToolTip": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Config.cs",
+              "RelativeToolTip": "Config.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAD4v9YAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T22:58:41.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CyberArk-PASS-API-Auth.cs",
+              "DocumentMoniker": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\CyberArk-PASS-API-Auth.cs",
+              "RelativeDocumentMoniker": "CyberArk-PASS-API-Auth.cs",
+              "ToolTip": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\CyberArk-PASS-API-Auth.cs",
+              "RelativeToolTip": "CyberArk-PASS-API-Auth.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAswIcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T22:58:40.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CyberArk-PASS-API-User.cs",
+              "DocumentMoniker": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\CyberArk-PASS-API-User.cs",
+              "RelativeDocumentMoniker": "CyberArk-PASS-API-User.cs",
+              "ToolTip": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\CyberArk-PASS-API-User.cs",
+              "RelativeToolTip": "CyberArk-PASS-API-User.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAUwNAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T00:20:37.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CyberArk-PASS-Caller.cs",
+              "DocumentMoniker": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\CyberArk-PASS-Caller.cs",
+              "RelativeDocumentMoniker": "CyberArk-PASS-Caller.cs",
+              "ToolTip": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\CyberArk-PASS-Caller.cs",
+              "RelativeToolTip": "CyberArk-PASS-Caller.cs",
+              "ViewState": "AQIAABgCAAAAAAAAAAAcwCUCAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:22:52.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger.cs",
+              "ToolTip": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Logger.cs",
+              "RelativeToolTip": "Logger.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAEwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T22:58:38.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Utilities.cs",
+              "RelativeDocumentMoniker": "Utilities.cs",
+              "ToolTip": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Utilities.cs",
+              "RelativeToolTip": "Utilities.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAjwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T22:58:36.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Engagements\\JesseMcWilliams\\CyberArk_PAS_Exe\\Get-MFACachedKey\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T22:58:37.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
